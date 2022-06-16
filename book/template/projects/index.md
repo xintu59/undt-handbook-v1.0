@@ -8,7 +8,7 @@ Each page describes:
  - Publications
  - Collaborators
 
-
+<!-- +  commented out
 ## Former PhD Students
 ```{admonition} FIXME Instructions
 If possible, link to a copy of the thesis, for example your institution may have an electronic copy online.
@@ -40,3 +40,4 @@ Copy the format as many times as needed.
 
 `<NAME OF POSTDOC>` (`<YEARS OF EMPLOYMENTS>`)
 **Project:** `<PROJECT NAME>`
+comment ends -->
