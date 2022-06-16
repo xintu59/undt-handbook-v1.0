@@ -7,15 +7,15 @@ The BLU (Bristol Laser Ultrasound) Team tackles the challenges associated with r
 
 ## Associated Researchers
 
-### Lily Tu
+- Lily Tu (xt16846@bristol.ac.uk)
 
-### Jun Li
+- Jun Li (sm21508@bristol.ac.uk)
 
-### Sergio Cantero Chinchilla
+- Sergio Cantero Chinchilla (sergio.canterochinchilla@bristol.ac.uk)
 
-### Jie Zhang
+- Jie Zhang (j.zhang@bristol.ac.uk)
 
-### Paul Wilcox
+- Paul Wilcox (p.wilcox@bristol.ac.uk)
 
 ## Research Topics
 
