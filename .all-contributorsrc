@@ -89,6 +89,15 @@
       "contributions": [
         "example"
       ]
+    },
+    {
+      "login": "bitxsun",
+      "name": "bitxsun",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48439705?v=4",
+      "profile": "https://github.com/bitxsun",
+      "contributions": [
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
