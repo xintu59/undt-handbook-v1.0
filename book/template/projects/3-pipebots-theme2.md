@@ -4,6 +4,8 @@
 
 ## Brief Description
 
+![](https://mcusercontent.com/726779d7556fc0334c19fc886/images/c5ba3781-add4-78f3-d052-54c4aa2f8639.png)
+
 The research programme for this Grant is made up from seven inter-related research themes, Theme 2 to Theme 8, as illustrated in the figure below. Each of these themes is made up of a series of work packages (WPs) designed to deliver on more specific project objectives formulated for each of the themes. There are clear inter-connections between the seven themes and high-level scientific challenges (see C1-C5 in the figure) which need to be overcome through these themes. Bringing these themes together with a common vision and aim fundamentally requires a Programme Grant like approach as the resource flexibility will allow emerging ideas and directions to be pursued with the proposed methodologies (see M1-M5 in the figure). The connections made between these themes will ensure that the science and end user impact will be significantly greater than the sum of the individual parts.
 
 ## Associated Researchers
