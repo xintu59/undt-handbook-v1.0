@@ -80,6 +80,15 @@
       "contributions": [
         "example"
       ]
+    },
+    {
+      "login": "zhangqjie2020",
+      "name": "zhangqjie2020",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68072949?v=4",
+      "profile": "https://github.com/zhangqjie2020",
+      "contributions": [
+        "example"
+      ]
     }
   ],
   "contributorsPerLine": 7,
