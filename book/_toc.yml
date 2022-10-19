@@ -15,7 +15,7 @@ parts:
 #        - file: guide/style-guide
 #    - file: guide/code-of-conduct
 
-  - caption: Template
+  - caption: UNDT group
     chapters:
     - file: template/welcome
       title: Welcome
