@@ -40,10 +40,10 @@ parts:
 #      - file: template/research-environment/journal-club
 #      - file: template/research-environment/tools
 #      - file: template/research-environment/roadmap
-    - file: template/lab-database/index
+    - file: template/resources/index
       sections:
-      - file: template/lab-database/data-management
-    - file: template/tutorials
-      sections:
-      - file: template/tutorials/interactive-plot
-    - file: template/glossary
+      - file: template/resources/database-search-tutorial
+#    - file: template/tutorials
+#      sections:
+#      - file: template/tutorials/interactive-plot
+#    - file: template/glossary
