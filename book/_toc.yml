@@ -25,10 +25,10 @@ parts:
         - file: template/our-team/past-members
     - file: template/projects/index
       sections:
-        - file: template/projects/1-array-imaging
+#        - file: template/projects/1-array-imaging
         - file: template/projects/2-laser-ultrasound
         - file: template/projects/3-pipebots-theme2
-        - file: template/projects/4-machine-learning
+#        - file: template/projects/4-machine-learning
         - file: template/projects/5-acoustic-manipulation
     - file: template/research-environment/index
       sections:
