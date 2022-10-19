@@ -29,21 +29,20 @@ parts:
         - file: template/projects/2-Laser-room
         - file: template/projects/3-Eddy-current
         - file: template/projects/4-Acoustic-manipulation
-    - file: template/research-environment/index
+#    - file: template/research-environment/index
+#      sections:
+#      - file: template/research-environment/practicalities
+#      - file: template/research-environment/values
+#      - file: template/research-environment/ways-of-working
+#      - file: template/research-environment/open-research-practices
+#      - file: template/research-environment/group-meetings
+#      - file: template/research-environment/one-to-ones
+#      - file: template/research-environment/journal-club
+#      - file: template/research-environment/tools
+#      - file: template/research-environment/roadmap
+    - file: template/lab-database/index
       sections:
-      - file: template/research-environment/practicalities
-      - file: template/research-environment/values
-      - file: template/research-environment/ways-of-working
-      - file: template/research-environment/open-research-practices
-      - file: template/research-environment/group-meetings
-      - file: template/research-environment/one-to-ones
-      - file: template/research-environment/journal-club
-      - file: template/research-environment/tools
-      - file: template/research-environment/roadmap
-    - file: template/resources/index
-      sections:
-      - file: template/resources/time-management
-      - file: template/resources/data-management
+      - file: template/lab-database/data-management
     - file: template/tutorials
       sections:
       - file: template/tutorials/interactive-plot
