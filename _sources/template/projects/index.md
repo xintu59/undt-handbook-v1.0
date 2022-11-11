@@ -1,10 +1,12 @@
-# Our Projects
+# Lab Area
 
-This section contains pages for the over-arching research themes being worked on in our group. 
+This section contains pages for the different lab areas in our group. Access to UNDT sharepoint is required for some of the resources listed.
 Each page describes:
- - A brief description of the theme
+ - The general purpose of the lab area
  - The associated researchers
- - The research topics in this theme (current and planned)
- - Publications
+ - Publications and open-access presentations
+ - Relevant lab devices and manuals
  - Collaborators
+
+Please contact the associated researchers for help regarding to case-specific questions.
 
